@@ -40,5 +40,5 @@ Current Team Project Organisation: https://github.com/scrumsy
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oatMilk223&repo=IoT-Smart-Weather-Station-2022&theme=tokyonight" />
 </a>
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/10y00L5OqWgHD2/giphy.gif" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif" />
 
