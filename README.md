@@ -34,5 +34,11 @@ My LinkedIn: https://www.linkedin.com/in/brooke-johnson-8ab0061a2/
 <a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
 </a>
+<a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
+</a>
+<a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
+</a>
 
 
