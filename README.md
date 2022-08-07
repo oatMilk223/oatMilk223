@@ -1,5 +1,4 @@
 ### Hi there 👋
-**Languages and Tools:**
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=oatMilk223" alt="oatMilk223" /> </p> 
  </br>
 
@@ -7,7 +6,7 @@
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" />
-
+**About Me**
 <br>
  - My Email: mailto:brookechook659@gmail.com
  <br>
