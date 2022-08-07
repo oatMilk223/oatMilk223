@@ -4,9 +4,10 @@
 
 ---
 
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" />
 **About Me**
+<br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" />
+
 <br>
  - My Email: mailto:brookechook659@gmail.com
  <br>
