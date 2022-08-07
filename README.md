@@ -1,6 +1,6 @@
 ---
 ### Hi there 👋
-<p>Hi I'm Brooke, a Computer Science Student at Swinburne. This readme page is currently still in development. </p>
+<p>I'm Brooke, a Computer Science Student at Swinburne. This readme page is currently still in development. </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=oatMilk223" alt="oatMilk223" /> </p> 
 <br>
 
