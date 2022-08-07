@@ -7,9 +7,9 @@
 
 <img align="right" alt="GIF" src="https://giphy.com/stickers/art-pixel-5xRW2cUKfcyQg" />
 
- - 📫 My Email: mailto:brookechook659@gmail.com
+ - 📫 My Email: mailto:brookechook659@gmail.com;
  <br>
- - 🔗 My LinkedIn: https://www.linkedin.com/in/brooke-johnson-8ab0061a2/
+ - 🔗 My LinkedIn: https://www.linkedin.com/in/brooke-johnson-8ab0061a2/;
  <br>
  
  ---
