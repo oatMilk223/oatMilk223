@@ -25,6 +25,13 @@ My LinkedIn: https://www.linkedin.com/in/brooke-johnson-8ab0061a2/
 <img align="right" alt="GIF" height=200px src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif" />
 
 
+---
 
+<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
+</a>
+<a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
+</a>
 
 
