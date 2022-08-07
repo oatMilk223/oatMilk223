@@ -1,9 +1,7 @@
 ---
 ### Hi there 👋
-<p>Hi I'm Brooke, a Computer Science Student at Swinburne. This readme page is currently still in developnment. </p>
+<p>Hi I'm Brooke, a Computer Science Student at Swinburne. This readme page is currently still in development. </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=oatMilk223" alt="oatMilk223" /> </p> 
-
-
 <br>
 
 ---
@@ -12,9 +10,9 @@
 <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" />
 <br>
-- My Email: mailto:brookechook659@gmail.com
+My Email: mailto:brookechook659@gmail.com
 <br>
-- 🔗 My LinkedIn: https://www.linkedin.com/in/brooke-johnson-8ab0061a2/
+My LinkedIn: https://www.linkedin.com/in/brooke-johnson-8ab0061a2/
 <br>
  
  ---
