@@ -5,7 +5,7 @@
 ---
 
 
-<img align="right" alt="GIF" src="[https://giphy.com/stickers/art-pixel-5xRW2cUKfcyQg](https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif)" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" />
 
  - My Email: mailto:brookechook659@gmail.com
  <br>
