@@ -8,7 +8,7 @@
 
 <br>
 
-
+---
 
 **About Me**
 <br>
@@ -21,8 +21,7 @@ My LinkedIn: https://www.linkedin.com/in/brooke-johnson-8ab0061a2/
 Current Team Project Organisation: https://github.com/scrumsy
 <br>
 
- ---
- 
+
  **My Stats** 
  <br>
  
