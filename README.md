@@ -1,4 +1,3 @@
-<img align="center" alt="GIF" src="https://media.giphy.com/media/z2DkXIkweCy54nibgd/giphy.gif" />
 
 ### Hi there 👋
 
