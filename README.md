@@ -2,6 +2,10 @@
 ### Hi there 👋
 <p>I'm Brooke, a Computer Science Student at Swinburne. This readme page is currently still in development. </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=oatMilk223" alt="oatMilk223" /> </p> 
+
+
+<img align="center" alt="GIF" src="https://media.giphy.com/media/10y00L5OqWgHD2/giphy.gif" />
+
 <br>
 
 ---
