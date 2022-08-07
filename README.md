@@ -28,12 +28,14 @@ Current Team Project Organisation: https://github.com/scrumsy
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oatMilk223&theme=tokyonight)](https://git.io/streak-stats)
 
-<img align="right" alt="GIF" height=200px src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif" />
+
 
 
 ---
 
  **Some Standout Projects / Organisations** 
+ 
+ <img align="right" alt="GIF" height=200px src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif" />
  
 <br>
 <a href="https://github.com/oatMilk223/IoT-Smart-Irrigation-System-2022" target="_blank">
