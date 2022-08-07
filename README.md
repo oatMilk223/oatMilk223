@@ -3,9 +3,9 @@
 ---
 
 <img align="right" alt="GIF" src="https://giphy.com/stickers/art-pixel-5xRW2cUKfcyQg" />
- - 📫 How to reach me: [brookechook659@gmail.com];
+ - 📫 How to reach me: [brookechook659@gmail.com](mailto:brookechook659@gmail.com);
  <br>
- - 🔗 My LinkedIn: [https://www.linkedin.com/in/brooke-johnson-8ab0061a2/]
+ - 🔗 My LinkedIn: [https://www.linkedin.com/in/brooke-johnson-8ab0061a2/](https://www.linkedin.com/in/brooke-johnson-8ab0061a2/)
  <br>
  
  ---
