@@ -6,7 +6,7 @@
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" />
-
+### About Me
  - My Email: mailto:brookechook659@gmail.com
  <br>
  - 🔗 My LinkedIn: https://www.linkedin.com/in/brooke-johnson-8ab0061a2/
