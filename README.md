@@ -1,4 +1,7 @@
+<img align="center" alt="GIF" src="https://media.giphy.com/media/z2DkXIkweCy54nibgd/giphy.gif" />
+
 ### Hi there 👋
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=oatMilk223" alt="oatMilk223" /> </p> 
  </br>
 
