@@ -1,6 +1,6 @@
 
 
-# Hi there! 👋 
+# Hi there! 
 <p>I'm Brooke, a Computer Science Student at Swinburne. This readme page is currently still in development. </p>
 
 <div id="badges">
