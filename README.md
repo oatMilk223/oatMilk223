@@ -1,5 +1,5 @@
 
-# Hi there! 👋 :cowboy_hat_face:
+# Hi there! 👋 
 <p>I'm Brooke, a Computer Science Student at Swinburne. This readme page is currently still in development. </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=oatMilk223" alt="oatMilk223" /> </p> 
 
@@ -38,10 +38,10 @@
  
 <br>
 <a href="https://github.com/oatMilk223/IoT-Smart-Irrigation-System-2022" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oatMilk223&repo=IoT-Smart-Irrigation-System-2022&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oatMilk223&repo=IoT-Smart-Irrigation-System-2022&theme=dracula" />
 </a>
 <a href="https://github.com/oatMilk223/IoT-Smart-Weather-Station-2022" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oatMilk223&repo=IoT-Smart-Weather-Station-2022&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oatMilk223&repo=IoT-Smart-Weather-Station-2022&theme=dracula" />
 </a>
 
 
