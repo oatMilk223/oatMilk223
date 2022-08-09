@@ -1,6 +1,20 @@
 
+
 # Hi there! 👋 
 <p>I'm Brooke, a Computer Science Student at Swinburne. This readme page is currently still in development. </p>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/brooke-johnson-8ab0061a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/13552489/steak">
+    <img src="https://img.shields.io/badge/StackOverflow-yellow?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/brookechook659">
+    <img src="https://img.shields.io/badge/Hackerrank-purple?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hacker Rank Badge"/>
+  </a>
+</div>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=oatMilk223" alt="oatMilk223" /> </p> 
 
 
@@ -11,7 +25,7 @@
 ---
 
 ## About Me
-<br>
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" />
 <br>
 - My Email: brookechook659@gmail.com
@@ -25,7 +39,7 @@
  ## My Stats
  <br>
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oatMilk223&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oatMilk223&theme=dracula)](https://git.io/streak-stats)
 
 
 
