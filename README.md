@@ -17,9 +17,6 @@
 </div>
 
 
-
-<img align="center" alt="GIF" src="https://media.giphy.com/media/10y00L5OqWgHD2/giphy.gif" />
-
 <br>
 
 ---
