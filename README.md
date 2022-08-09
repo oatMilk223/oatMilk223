@@ -10,7 +10,7 @@
 
 ---
 
-**About Me**
+## About Me
 <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" />
 <br>
@@ -22,7 +22,7 @@ Current Team Project Organisation: https://github.com/scrumsy
 <br>
 
 
- **My Stats** 
+ ## My Stats
  <br>
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oatMilk223&theme=tokyonight)](https://git.io/streak-stats)
@@ -32,7 +32,7 @@ Current Team Project Organisation: https://github.com/scrumsy
 
 ---
 
- **Some Standout Projects / Organisations** 
+## Some Standout Projects / Organisations
  
  <img align="right" alt="GIF" height=300px src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif" />
  
