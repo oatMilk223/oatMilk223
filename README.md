@@ -26,9 +26,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" />
 
 - My LinkedIn: https://www.linkedin.com/in/brooke-johnson-8ab0061a2/
-<br>
-- Current Team Project Organisation: https://github.com/scrumsy
-<br>
 
 
  ## My Stats
