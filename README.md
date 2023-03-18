@@ -23,9 +23,14 @@
 
 ## About Me
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" />
+<br>
+<a href="https://www.linkedin.com/in/brooke-johnson-8ab0061a2/" target="_blank" > <kbd> <br> LinkedIn <br> </kbd> </a>
+<!-- <a href="https://cap-stone.atlassian.net/jira/software/projects/CRPD/boards/1/roadmap" target="_blank" > <kbd> <br> Jira <br> </kbd> </a>
+<a href="https://liveswinburneeduau-my.sharepoint.com/:f:/g/personal/102106492_student_swin_edu_au/ElXjurPrpoBAgalEkF4OedsBKRV2Qrh1EldcrNzI16JMMg?e=0I6eGW" target="_blank" > -->
+<!--   <kbd> <br> OneDrive <br> </kbd> </a> -->
+<br>
 
-- My LinkedIn: https://www.linkedin.com/in/brooke-johnson-8ab0061a2/
+<img align="right" alt="GIF" src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" />
 
 
  ## My Stats
