@@ -11,9 +11,9 @@
   <a href="https://stackoverflow.com/users/13552489/steak">
     <img src="https://img.shields.io/badge/StackOverflow-yellow?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/brookechook659">
+<!--   <a href="https://www.hackerrank.com/brookechook659">
     <img src="https://img.shields.io/badge/Hackerrank-purple?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hacker Rank Badge"/>
-  </a>
+  </a> -->
 </div>
 
 
