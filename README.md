@@ -2,7 +2,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=oatMilk223" alt="oatMilk223" /> </p> 
 
 # Hi there! 
-<p>I'm Brooke, a Computer Science Student at Swinburne. This readme page is currently still in development. </p>
+<p>I'm Brooke, an intern software developer and Computer Science student. This readme page is currently still in development. </p>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/brooke-johnson-8ab0061a2/">
