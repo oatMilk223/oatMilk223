@@ -16,13 +16,12 @@
 
 <img align="right" alt="axolotl" src="https://media.giphy.com/media/RE5iREBNhI0Ok/giphy.gif" />
 
----
-
 <h3 align="left">My Stats:</h3>
  <br>
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oatMilk223&theme=dracula)](https://git.io/streak-stats)
 
+---
 
 <h3 align="left">Some Standout Projects/Organisations:</h3>
   
