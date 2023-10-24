@@ -5,7 +5,7 @@
 <h3 align="center">I'm currently and intern software developer and computer science student.</h3>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/brooke-johnson-8ab0061a2/">
+  <a href="https://www.linkedin.com/in/brooke-j-8ab0061a2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
