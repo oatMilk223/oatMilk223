@@ -2,8 +2,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=oatMilk223" alt="oatMilk223" /> </p> 
 
 <h1 align="center">Hi, I'm Brooke</h1>
-<h3 align="center">I'm currently and intern software developer and computer science student.</h3>
-
+<p>I'm an intern software developer based in Australia, and am also currently a studying a Computer Science degree at Swinburne University of Technology.</p>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/brooke-j-8ab0061a2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
