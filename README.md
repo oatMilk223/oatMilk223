@@ -15,7 +15,9 @@
 <br>
 
 <img align="right" alt="axolotl" src="https://media.giphy.com/media/RE5iREBNhI0Ok/giphy.gif" />
-<br>
+
+---
+
 <h3 align="left">My Stats:</h3>
  <br>
  
