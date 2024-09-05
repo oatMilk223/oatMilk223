@@ -9,7 +9,7 @@
   </a>
 </div>
 <div align="center">
-  <img align="center" alt="axolotl" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWE0d2c2c2F1b2pkaXV3dHVwMXh2ZzFlbWNtb2Nqb2t6YmdhMXhqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6vj5quVNRhoQw/giphy.gif" />
+  <img align="center" alt="axolotl" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlreDhpNGR3MTJ1eGlnMHF3eWxkYWpiMHoxcTBvaXUxcjUxZnIxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" />
   <h3 align="center">Languages and Tools:</h3>
   <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
