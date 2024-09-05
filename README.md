@@ -29,18 +29,6 @@
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oatMilk223&theme=dracula)](https://git.io/streak-stats)
 
----
-
-<h3 align="center">Some Standout Projects/Organisations:</h3>
-  
-<br>
-<a href="https://github.com/oatMilk223/IoT-Smart-Irrigation-System-2022" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oatMilk223&repo=IoT-Smart-Irrigation-System-2022&theme=dracula" />
-</a>
-<a href="https://github.com/oatMilk223/IoT-Smart-Weather-Station-2022" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oatMilk223&repo=IoT-Smart-Weather-Station-2022&theme=dracula" />
-</a>
-
 
 
 
